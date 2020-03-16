@@ -19,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YtKNNlWZiCRDJvdHjS3vWlzAyq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,7 +59,12 @@
       <updated>1583756409525</updated>
       <workItem from="1583756410777" duration="4646000" />
       <workItem from="1583817389659" duration="9926000" />
-      <workItem from="1583931890796" duration="1086000" />
+      <workItem from="1583931890796" duration="1919000" />
+      <workItem from="1583989713950" duration="20000" />
+      <workItem from="1583999252633" duration="1060000" />
+      <workItem from="1584022763122" duration="275000" />
+      <workItem from="1584076927419" duration="22000" />
+      <workItem from="1584079177029" duration="385000" />
     </task>
     <servers />
   </component>
@@ -63,9 +72,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1072" y="276" key="FileChooserDialogImpl" timestamp="1583831739083">
+    <state x="1072" y="276" key="FileChooserDialogImpl" timestamp="1584076947724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1072" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583831739083" />
+    <state x="1072" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584076947724" />
   </component>
 </project>
