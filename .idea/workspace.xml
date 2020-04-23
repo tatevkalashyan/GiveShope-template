@@ -33,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Influencer-Networks-App-inner-pages" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -65,6 +65,8 @@
       <workItem from="1584022763122" duration="275000" />
       <workItem from="1584076927419" duration="22000" />
       <workItem from="1584079177029" duration="385000" />
+      <workItem from="1587129173468" duration="7904000" />
+      <workItem from="1587361981120" duration="9781000" />
     </task>
     <servers />
   </component>
@@ -72,9 +74,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1072" y="276" key="FileChooserDialogImpl" timestamp="1584076947724">
+    <state x="1072" y="276" key="FileChooserDialogImpl" timestamp="1587455434479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1072" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584076947724" />
+    <state x="1072" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587455434479" />
   </component>
 </project>
